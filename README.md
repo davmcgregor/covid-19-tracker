@@ -3,8 +3,10 @@
 
 # [Live site](https://friendly-clarke-3c9506.netlify.app/)
 
-Technologies used: *React, Charts.JS and Material UI*
-API: https://friendly-clarke-3c9506.netlify.app/
+[!covid-19-tracker.gif]
+
+* Technologies used: *React, Chart.js, Material UI*
+* API: https://covid19.mathdro.id/api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
