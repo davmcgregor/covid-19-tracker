@@ -9,10 +9,11 @@ const Chart = ({ data: { confirmed, deaths, recovered }, country }) => {
 
   useEffect( () => {
     const fetchAPI = async () => {
-      setDailyData(await fetchDailyData());
-    }
-    console.log("dailyData")
-    console.log(dailyData)
+      const initialDailyData = await fetchDailyData();
+
+     setDailyData(initialDailyData);
+
+    };
 
     fetchAPI();
   }, []);
@@ -62,8 +63,6 @@ const Chart = ({ data: { confirmed, deaths, recovered }, country }) => {
       />
     ) : null
   )
-
-  console.log(confirmed, deaths, recovered);
 
   return ( 
     <div className={styles.container}>
