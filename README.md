@@ -3,7 +3,7 @@
 
 # [Live site](https://friendly-clarke-3c9506.netlify.app/)
 
-![covid-19-tracker](covid-19-tracker.gif)
+![covid-19-tracker](public/covid-19-tracker.gif)
 
 * Technologies used: *React, Chart.js, Material UI*
 * API: https://covid19.mathdro.id/api
