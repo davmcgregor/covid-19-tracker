@@ -5,6 +5,8 @@
 
 ![covid-19-tracker](public/covid-19-tracker.gif)
 
+React app that makes an API call to display the latest Covid-19 statistics.
+
 * Technologies used: *React, Chart.js, Material UI*
 * API: https://covid19.mathdro.id/api
 
