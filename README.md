@@ -3,7 +3,7 @@
 
 # [Live site](https://friendly-clarke-3c9506.netlify.app/)
 
-![covid-19-tracker](public/covid-19-tracker.gif)
+![covid-19-tracker](public/covid-tracker-2.gif)
 
 React app that makes an API call to display the latest Covid-19 statistics.
 
